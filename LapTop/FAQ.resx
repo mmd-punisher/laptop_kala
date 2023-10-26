@@ -1,0 +1,84 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Incarnate Word High School promotes student choice, individual expression, and personal
+responsibility. We are providing students the power to choose the computer that best suits
+their needs, while expecting them to know how to use it and take proper care of it. Specifying a
+Windows or Mac laptop computer will allow a more consistent classroom experience, while still
+allowing student choice.</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>Student files saved in network directories on a school server are backed up regularly. Non-school related files should not be stored on school storage resources. Student files on a personal device or in webbased storage locations, such as OneDrive for Business in Office 365 will be backed up by the school.
+Students are responsible for backing up their data on personal devices and cloud storage. </value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>Students who currently have their own laptop, Windows or Mac, can use their existing laptop
+for school. If the computer was purchased within the last couple of years and was a quality
+laptop when purchased, it should be sufficient for the needs of an IWHS student. The hardware
+recommendations provided by Incarnate Word High School should be used if a student is
+purchasing a new computer.</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>Incarnate Word High School provides a quality education to all students who can meet the
+academic demands regardless of their family’s ability to pay tuition. There is an application
+process to receive a long-term laptop loan for students that currently do not have their own
+laptop.</value>
+  </data>
+</root>

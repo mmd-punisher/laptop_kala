@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "lsURYsxkAoBisFCOSprl9yLX0noUxSiiJVE82VwfiyoHLcZvw0kds1A/4h80JjFlksnWX0Xic16KeIEZ2sCjZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Parto\\Desktop\\vs pro\\Final PRO\\this\\LapTop\\LapTop\\LapTop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Parto\\.nuget\\packages\\circularprogressbar\\2.8.0.16\\circularprogressbar.2.8.0.16.nupkg.sha512",
+    "C:\\Users\\Parto\\.nuget\\packages\\circularprogressbar_net5\\3.0.0\\circularprogressbar_net5.3.0.0.nupkg.sha512",
+    "C:\\Users\\Parto\\.nuget\\packages\\krypton.toolkit.signed\\65.22.4.94\\krypton.toolkit.signed.65.22.4.94.nupkg.sha512",
+    "C:\\Users\\Parto\\.nuget\\packages\\krypton.toolkit.suite.extended.circular.progressbar.signed\\65.22.4.94\\krypton.toolkit.suite.extended.circular.progressbar.signed.65.22.4.94.nupkg.sha512",
+    "C:\\Users\\Parto\\.nuget\\packages\\unofficial.winformanimation-net\\2.0.1\\unofficial.winformanimation-net.2.0.1.nupkg.sha512",
+    "C:\\Users\\Parto\\.nuget\\packages\\winformanimation-net5\\2.0.0\\winformanimation-net5.2.0.0.nupkg.sha512",
+    "C:\\Users\\Parto\\.nuget\\packages\\xamarin.bin.circularprogressbar\\1.0.1\\xamarin.bin.circularprogressbar.1.0.1.nupkg.sha512",
+    "C:\\Users\\Parto\\.nuget\\packages\\xamarin.forms\\2.5.0.280555\\xamarin.forms.2.5.0.280555.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'CircularProgressBar 2.8.0.16' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "CircularProgressBar",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
